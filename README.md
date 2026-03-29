@@ -15,4 +15,4 @@ Security engineering roles in fintech — between systems builder and threat ana
 
 ---
 
-🎓 VIT Vellore, CSE &nbsp;|&nbsp
+🎓 VIT Vellore, CSE &nbsp;|&nbsp;
