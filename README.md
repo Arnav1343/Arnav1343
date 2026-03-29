@@ -15,4 +15,4 @@ Security engineering roles in fintech — between systems builder and threat ana
 
 ---
 
-📍 Vellore, India &nbsp;|&nbsp; 🎓 VIT Vellore, CSE &nbsp;|&nbsp; 💼 Open to internships 2025–26
+🎓 VIT Vellore, CSE &nbsp;|&nbsp
