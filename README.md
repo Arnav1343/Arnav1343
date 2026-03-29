@@ -1,16 +1,18 @@
-## Hi there 👋
+## Arnav Tiwari
 
-<!--
-**Arnav1343/Arnav1343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad at VIT Vellore — building at the intersection of security engineering and fintech systems.
 
-Here are some ideas to get you started:
+**Current focus**
+- Hybrid audio transcription + PII detection pipeline for financial call auditing
+- IoT and embedded security tooling
+- Fintech infrastructure security (fraud detection, API hardening)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I use**
+Python · TypeScript · Kotlin · Linux · Bash · Vosk · Whisper · Next.js · Android SDK
+
+**What I'm building toward**
+Security engineering roles in fintech — between systems builder and threat analyst, not pure SOC work.
+
+---
+
+📍 Vellore, India &nbsp;|&nbsp; 🎓 VIT Vellore, CSE &nbsp;|&nbsp; 💼 Open to internships 2025–26
