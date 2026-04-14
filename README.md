@@ -9,7 +9,7 @@ CS undergrad @ VIT Vellore — building at the intersection of **security engine
 - 🎙️ Hybrid audio transcription + PII detection pipeline for financial call auditing
 - - 🛡️ IoT and embedded security tooling
   - - 💳 Fintech infrastructure security — fraud detection & API hardening
-    - - 🚁 Drone interception & RF spoofing detection (Honeywell problem statement)
+    - - 🚁 Drone interception & RF spoofing detection 
      
       - ---
 
